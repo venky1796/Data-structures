@@ -1,6 +1,9 @@
-  
+ /*
+B171796
+B.venkatesh
+*/ 
 #include<stdio.h>
-
+#include<stdlib.h>
 int ele;
 int arr[5];
 int front = 0;
