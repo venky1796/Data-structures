@@ -1,3 +1,7 @@
+/*
+B171796
+B.venkatesh
+*/
 #include<stdio.h>
 int n=10;
 int swap(int i,int min,int a[n])
