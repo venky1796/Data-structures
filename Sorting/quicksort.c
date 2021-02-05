@@ -1,3 +1,7 @@
+/*
+B171796
+B.venkatesh
+*/
 #include<stdio.h>
 int count = 0;
 int swap(int a[],int k,int j)
