@@ -1,3 +1,7 @@
+/*
+B171796
+B.venkatesh
+*/
 #include <stdio.h> 
 #include <stdlib.h> 
 int size=0;
