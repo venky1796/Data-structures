@@ -1,3 +1,7 @@
+/*
+B171796
+B.venkatesh
+*/
 #include<stdio.h>
 int count =0;
 int merge_sort(int a[],int l,int m,int h)
