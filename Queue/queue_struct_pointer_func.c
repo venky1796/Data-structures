@@ -1,4 +1,7 @@
-  
+ /*
+B171796
+B.venkatesh
+*/
 #include <stdio.h>
 #include <stdlib.h>
 struct queue{
