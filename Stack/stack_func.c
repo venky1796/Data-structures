@@ -1,3 +1,7 @@
+/*
+B171796
+B.venkatesh
+*/
 #include<stdio.h>
 int ele;
 int push(int *a, int *top, int *max)
