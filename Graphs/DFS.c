@@ -1,3 +1,7 @@
+/*
+B171796
+B.venkatesh
+*/
 #include<stdio.h>
 #include<stdlib.h>
 void dfs(int k,int n,int visit[],int a[20][20]);
